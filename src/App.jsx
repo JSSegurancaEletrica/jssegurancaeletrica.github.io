@@ -303,7 +303,7 @@ function App() {
           <div className="contactInfo">
             <span><Phone size={18} /> (82) 9 9672-0649</span>
             <span><MapPin size={18} /> Penedo/AL e região</span>
-            <span><Mail size={18} /> primetech360al@gmail.com</span>
+            <span><Mail size={18} /> joelson.eletrotecnico@outlook.com</span>
           </div>
         </div>
       </section>
